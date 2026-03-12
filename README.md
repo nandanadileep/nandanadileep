@@ -4,7 +4,7 @@
 
 I'm Nandana, AI Engineer building systems
 
-📬 nandanadileep29@gmail.com
+📬 [come yap here](mailto:nandanadileep29@gmail.com)
 
 </div>
 
