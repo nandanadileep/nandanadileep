@@ -1,12 +1,12 @@
 <div align="left">
 
-# yo 👋 &nbsp; 
+# yo 👋 &nbsp;
 
 I'm Nandana, AI Engineer building systems
 
-</div>
+📬 nandanadileep29@gmail.com
 
----
+</div>
 
 ## tech stack
 <div align="left">
