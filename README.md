@@ -10,18 +10,6 @@
 
 ---
 
-## who am i
-
-```python
-nandana = {
-    "role":      "AI Engineer @ Jaguar Land Rover",
-    "location":  "Bengaluru 🇮🇳",
-    "vibe":      "turning coffee → production-grade AI",
-    "currently": ["fine-tuning LLMs", "building MCP servers", "shipping agents"],
-    "belief":    "if it's not autonomous, is it even software?",
-}
-```
-
 ---
 
 ## what i actually build
