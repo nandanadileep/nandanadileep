@@ -9,21 +9,6 @@
 
 ---
 
-## what i actually build
-
-| thing | what it does |
-|---|---|
-| 🛡️ **aegis** | something dangerous (in a good way) |
-| 🤖 **ai-code-review-bot** | roasts your PRs better than your senior dev |
-| ♟️ **chess-STT** | play chess with your voice. yes, really |
-| 📄 **custom-pdf-RAG** | talk to your docs like they owe you money |
-| 🖼️ **img2tweet** | feed it an image, get a tweet. pure laziness |
-| 🔧 **autonomous-ci-repair** | CI breaks itself, fixes itself. you watch |
-| 🌐 **golembot** | run Claude Code on Slack/Discord/Telegram |
-| 🦾 **MCP-Server** | claude but with hands |
-| 🐝 **drone-swarm_boid** | i made robots that act like birds. why? yes |
-| 📊 **async-social-analytics** | sentiment analysis at scale before you ask |
-
 ---
 
 ## tech i reach for
