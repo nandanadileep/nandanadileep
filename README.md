@@ -14,8 +14,6 @@
 
 ## what i actually build
 
-> i don't just use AI. i make it do my job for me.
-
 | thing | what it does |
 |---|---|
 | 🛡️ **aegis** | something dangerous (in a good way) |
