@@ -4,7 +4,6 @@
 
 I'm Nandana, AI Engineer building systems
 
-📬 [come yap here](mailto:nandanadileep29@gmail.com)
 
 </div>
 
@@ -28,3 +27,5 @@ I'm Nandana, AI Engineer building systems
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 </div>
+
+📬 [come yap here](mailto:nandanadileep29@gmail.com)
