@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # yo 👋 &nbsp; 
 
@@ -8,9 +8,8 @@ I'm Nandana, AI Engineer building systems
 
 ---
 
-## tech i reach for
-
-<div align="center">
+## tech stack
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
