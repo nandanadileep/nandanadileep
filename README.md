@@ -2,9 +2,6 @@
 
 # yo 👋 &nbsp; I'm Nandana, AI Engineer building systems
 
-**`building things that probably shouldn't exist yet`**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+Jaguar+Land+Rover+%F0%9F%9A%97;LLM+Wrangler+%7C+Agent+Builder+%7C+Vibe+Coder;Making+machines+smarter+so+I+can+be+lazier;Bengaluru+%E2%86%92+The+Future)](https://github.com/nandanadileep)
 
 </div>
 
