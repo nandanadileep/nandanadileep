@@ -1,6 +1,6 @@
 <div align="center">
 
-# yo.
+# yo 👋 &nbsp; I'm Nandana, AI Engineer building systems
 
 **`building things that probably shouldn't exist yet`**
 
