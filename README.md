@@ -1,6 +1,8 @@
 <div align="center">
 
-# yo 👋 &nbsp; I'm Nandana, AI Engineer building systems
+# yo 👋 &nbsp; 
+
+I'm Nandana, AI Engineer building systems
 
 </div>
 
