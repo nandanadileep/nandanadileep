@@ -2,8 +2,6 @@
 
 # yo 👋 &nbsp;
 
-I'm Nandana, AI Engineer building systems
-
 
 </div>
 
