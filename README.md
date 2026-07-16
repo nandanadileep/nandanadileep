@@ -26,6 +26,4 @@
 
 </div>
 
-![Profile Views](https://komarev.com)
-
 📬 [come yap here](mailto:nandanadileep29@gmail.com)
