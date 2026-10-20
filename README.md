@@ -2,7 +2,7 @@
 
 AI Engineer at JLR · IIT Madras '24 · Bengaluru
 
-I build AI infrastructure.
+I build in AI infrastructure.
 
 ## Mycelium
 The reliability layer for AI agents. Validate, control, and verify tool actions across their lifecycle.
