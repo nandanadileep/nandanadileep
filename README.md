@@ -58,4 +58,11 @@ A native SwiftUI macOS app with **23 language choices**, automatic language dete
 
 ## Tools I work with
 
-Python · PyTorch · MLX · CUDA/Triton · FastAPI · LangGraph · CrewAI · PostgreSQL · Redis · Neo4j · TypeScript/React · Swift · AWS · Docker
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,postgres,redis,neo4j,typescript,react,swift,aws,docker&amp;perline=11" alt="Python, PyTorch, FastAPI, PostgreSQL, Redis, Neo4j, TypeScript, React, Swift, AWS, and Docker" />
+</p>
+
+![MLX](https://img.shields.io/badge/MLX-000000?style=for-the-badge&logo=apple&logoColor=white)
+![CUDA / Triton](https://img.shields.io/badge/CUDA%20%2F%20Triton-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge&logo=crewai&logoColor=white)
