@@ -1,8 +1,8 @@
 # Nandana Dileep
 
-AI Engineer · IIT Madras '24 · Bengaluru
+I make agents fast, cheap and reliable to run.
 
-I build AI infrastructure: reliable agent runtimes, inference systems, and experiments that measure what actually helps. I write about the architecture, results, and trade-offs behind them.
+I work on the systems behind that: LLM inference and serving, and the runtime that keeps agent tool calls correct when things fail. I write about the architecture, results, and trade-offs behind them.
 
 [Website](https://nandanadileep.com) · [Writing](https://medium.com/@nandanadileep29) · [LinkedIn](https://www.linkedin.com/in/nandana-dileep-06935a212/) · [X](https://x.com/nandana_dileep) · [Email](mailto:nandanadileep29@gmail.com)
 
