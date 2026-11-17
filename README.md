@@ -42,8 +42,6 @@ Extended nanoGPT with **7 architectural changes**: RMSNorm, SwiGLU, RoPE, GQA, M
 
 A React/Flask app that extracts confidence-scored entities from conversations into a Neo4j knowledge graph, with Redis-backed history, Supabase authentication, review, and portable export.
 
-[Try it](https://identiti.nandanadileep.com)
-
 ### [TicTic](https://github.com/nandanadileep/tictic) — voice typing for Indian languages
 
 A native SwiftUI macOS app with **23 language choices**, automatic language detection, global dictation shortcuts, transliteration, English translation, and direct text insertion into the active app. Powered by Sarvam AI.
